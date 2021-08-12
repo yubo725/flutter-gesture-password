@@ -1,5 +1,6 @@
 name: flutter_gesture_password
 description: A flutter gesture password view.
+homepage: https://github.com/yubo725/flutter-gesture-password
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
