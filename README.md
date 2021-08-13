@@ -25,7 +25,7 @@ dependencies:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:flutter_gesture_view/gesture_view.dart';
+import 'package:flutter_gesture_password/gesture_view.dart';
 
 void main() {
   runApp(MyApp());
