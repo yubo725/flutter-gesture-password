@@ -6,6 +6,21 @@ A flutter gesture password widget.
 
 ![](./preview.gif)
 
+## Install
+
+run this command:
+
+```
+flutter pub add flutter_gesture_password
+```
+
+This will add a line like this to your package's pubspec.yaml:
+
+```
+dependencies:
+  flutter_gesture_password: ^0.0.1
+```
+
 ## Usage
 
 ```dart
