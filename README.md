@@ -18,7 +18,7 @@ This will add a line like this to your package's pubspec.yaml:
 
 ```
 dependencies:
-  flutter_gesture_password: ^0.0.1
+  flutter_gesture_password: ^0.0.2
 ```
 
 ## Usage
